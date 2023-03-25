@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/methosi"><img src="https://api.daily.dev/devcards/f634f469ce1d4dd896412d7e6de96529.png?r=9xa" width="400" alt="Kien Nguyen's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/methosi/methosi/blob/main/devcard.svg" width="400" alt="Methosi's Dev Card"/></a>
 
 <!--
 **methosi/methosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
