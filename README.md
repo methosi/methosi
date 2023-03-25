@@ -49,6 +49,10 @@ I'm a **Goffer**, a **.NET Core expert**, and a **JavaScript enthusiast** with a
 
 * I love playing flag football, reading tech news and sketching up ideas in my freetime.
 
+### 📊 Devto Card
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/methosi/methosi/blob/main/devcard.svg" width="400" alt="Methosi's Dev Card"/></a>
+
 ### 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=methosi&show_icons=true&theme=radical)
@@ -58,7 +62,7 @@ I'm a **Goffer**, a **.NET Core expert**, and a **JavaScript enthusiast** with a
 
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/methosi/methosi/blob/main/devcard.svg" width="400" alt="Methosi's Dev Card"/></a>
+
 
 <!--
 **methosi/methosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
