@@ -1,6 +1,6 @@
-# 👋 Hey there, I'm [Your Name] - aka Goffer 👋
+# 👋 Hey there, I'm Kien Nguyen - aka Methosi 👋
 
-![Master of IT (with Distinction)](https://img.shields.io/badge/Master_of_IT_(with_Distinction)-success?style=flat)
+![Go Expert](https://img.shields.io/badge/Go Expert-success?style=flat)
 ![.NET Core Expert](https://img.shields.io/badge/.NET_Core_Expert-blue?style=flat)
 ![JavaScript Enthusiast](https://img.shields.io/badge/JavaScript_Enthusiast-yellow?style=flat)
 
