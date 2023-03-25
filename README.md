@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Kien Nguyen - aka Methosi 👋
 
-![Go Expert](https://img.shields.io/badge/Go Expert-success?style=flat)
+![Go Expert](https://img.shields.io/badge/Go_Expert-success?style=flat)
 ![.NET Core Expert](https://img.shields.io/badge/.NET_Core_Expert-blue?style=flat)
 ![JavaScript Enthusiast](https://img.shields.io/badge/JavaScript_Enthusiast-yellow?style=flat)
 
